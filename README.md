@@ -1,1 +1,7 @@
-# tibia_v12
+# Forgotten Server
+Servidor de tibia 
+
+- Tibia 12
+- Map Global
+- Gesior ACC
+- Site próprio
