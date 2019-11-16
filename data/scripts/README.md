@@ -7,5 +7,5 @@
 
 ### guild_outfit.lua
 - path: ```data/scripts/talkactions/player/guild_outfit.lua```
-- details: Commando que permite liders da guild a trocar a paleta de cores de outros membros da guilda
+- details: Commando que permite os liders da guild a trocarem a paleta de cores de outros membros da guilda
 - use: !outfit
