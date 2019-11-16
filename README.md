@@ -13,3 +13,6 @@ Servidor de tibia
 - Extraia o arquivo ```data/world/world.zip```;
 - Configure o arquivo ```config.lua```;
 - Have fun! ^^
+
+## Arquivos personalizados
+- ```data/script/talkactions/god/give item.lua```
