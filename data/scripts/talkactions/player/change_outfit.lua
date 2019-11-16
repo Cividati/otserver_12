@@ -1,4 +1,4 @@
-local talk = TalkAction("!ot")
+local talk = TalkAction("!outfit")
  
 function talk.onSay(player, words, param)
 
