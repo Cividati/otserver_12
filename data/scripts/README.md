@@ -8,4 +8,4 @@
 ### guild_outfit.lua
 - path: ```data/scripts/talkactions/player/guild_outfit.lua```
 - details: Commando que permite liders da guild a trocar a paleta de cores de outros membros da guilda
-- use: /gi
+- use: !outfit
